@@ -1,6 +1,0 @@
-Push 1:
-Character is a base class that holds 6 subclasses for 6 stats, 
-and a few variables to represent a single entity/character
-
-GuildmanagerPoC is a Proof of Concept function that allows the user to add,
-remove, and select a party from a "guild", or list of characters. very buggy, still needs work.
